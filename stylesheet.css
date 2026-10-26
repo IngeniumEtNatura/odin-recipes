@@ -1,9 +1,17 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(233, 141, 21, 0.700);
+    font-weight: 525;
 }
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     color: rgb(181, 91, 22);
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
